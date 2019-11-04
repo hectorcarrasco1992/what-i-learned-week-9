@@ -20,4 +20,12 @@
 * In this project we expanded on our previous calculator app.
   
 * We did this, by making a function that will allow our calculator app to run math problems by only calling on this function.
-* 
+
+![alt-text](Screen&#32;Shot&#32;2019-11-03&#32;at&#32;8.25.32&#32;PM.png)
+
+---
+
+# _DOM_ _Terreto_
+
+    We need more DOM through projects like extinction even and otheres.
+    We did this in order to get a handle on how to use querySelectAll.
